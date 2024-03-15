@@ -1,9 +1,12 @@
 h1 {
-    color:red;
+    color:#A5DD9B;
 }
 
+h2 {
+    color:#C5EBAA
+}
 .my-projects {
-    color:red;
+    color:#F6F193;
 }
 
 .Contact-me {
@@ -15,6 +18,7 @@ h1 {
 }
 
 .zaver {
-    color:red;
-    text-align: center; 
+    color:#black;
+    text-align:center;
+    background-color: #F2C18D;
 }
